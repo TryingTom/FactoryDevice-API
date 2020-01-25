@@ -47,7 +47,7 @@ namespace EtteplanMORE.ServiceManual.Web.Controllers
             var device = _factoryDeviceDbContext.Devices.Include("Maintenances").FirstOrDefault(m => m.Id == id);
             if (device == null)
             {
-                return NotFound("No devices found...");
+                return NotFound("No devices found with the id...");
             }
             else
             {

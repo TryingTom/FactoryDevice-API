@@ -122,7 +122,7 @@ namespace EtteplanMORE.ServiceManual.Web.Controllers
             {
                 _factoryDeviceDbContext.Maintenances.Remove(maintenance);
                 _factoryDeviceDbContext.SaveChanges();
-                return Ok("Quote deleteded...");
+                return Ok("Maintenance deleted...");
             }
 
         }

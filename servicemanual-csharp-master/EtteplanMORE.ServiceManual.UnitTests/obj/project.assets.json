@@ -7165,11 +7165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomi\\Documents\\Savonia\\Etteplan\\servicemanual-csharp-master\\EtteplanMORE.ServiceManual.UnitTests\\EtteplanMORE.ServiceManual.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Tomi\\Documents\\Savonia\\Etteplan\\servicemanual-csharp-master\\EtteplanMore-CodeTest\\servicemanual-csharp-master\\EtteplanMORE.ServiceManual.UnitTests\\EtteplanMORE.ServiceManual.UnitTests.csproj",
       "projectName": "EtteplanMORE.ServiceManual.UnitTests",
-      "projectPath": "C:\\Users\\Tomi\\Documents\\Savonia\\Etteplan\\servicemanual-csharp-master\\EtteplanMORE.ServiceManual.UnitTests\\EtteplanMORE.ServiceManual.UnitTests.csproj",
+      "projectPath": "C:\\Users\\Tomi\\Documents\\Savonia\\Etteplan\\servicemanual-csharp-master\\EtteplanMore-CodeTest\\servicemanual-csharp-master\\EtteplanMORE.ServiceManual.UnitTests\\EtteplanMORE.ServiceManual.UnitTests.csproj",
       "packagesPath": "C:\\Users\\Tomi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomi\\Documents\\Savonia\\Etteplan\\servicemanual-csharp-master\\EtteplanMORE.ServiceManual.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\Tomi\\Documents\\Savonia\\Etteplan\\servicemanual-csharp-master\\EtteplanMore-CodeTest\\servicemanual-csharp-master\\EtteplanMORE.ServiceManual.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7188,8 +7188,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Tomi\\Documents\\Savonia\\Etteplan\\servicemanual-csharp-master\\EtteplanMORE.ServiceManual.ApplicationCore\\EtteplanMORE.ServiceManual.ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\Tomi\\Documents\\Savonia\\Etteplan\\servicemanual-csharp-master\\EtteplanMORE.ServiceManual.ApplicationCore\\EtteplanMORE.ServiceManual.ApplicationCore.csproj"
+            "C:\\Users\\Tomi\\Documents\\Savonia\\Etteplan\\servicemanual-csharp-master\\EtteplanMore-CodeTest\\servicemanual-csharp-master\\EtteplanMORE.ServiceManual.ApplicationCore\\EtteplanMORE.ServiceManual.ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\Tomi\\Documents\\Savonia\\Etteplan\\servicemanual-csharp-master\\EtteplanMore-CodeTest\\servicemanual-csharp-master\\EtteplanMORE.ServiceManual.ApplicationCore\\EtteplanMORE.ServiceManual.ApplicationCore.csproj"
             }
           }
         }
