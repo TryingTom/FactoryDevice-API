@@ -1,0 +1,16 @@
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\bin\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.UnitTests.deps.json
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\bin\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.UnitTests.runtimeconfig.json
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\bin\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.UnitTests.runtimeconfig.dev.json
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\bin\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.UnitTests.dll
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\bin\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.UnitTests.pdb
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\bin\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.ApplicationCore.dll
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\bin\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.ApplicationCore.pdb
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\obj\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.UnitTests.csprojAssemblyReference.cache
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\obj\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\obj\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.UnitTests.AssemblyInfo.cs
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\obj\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.UnitTests.csproj.CopyComplete
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\obj\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.UnitTests.dll
+C:\Users\Tomi\Documents\Savonia\Etteplan\servicemanual-csharp-master\EtteplanMORE.ServiceManual.UnitTests\obj\Debug\netcoreapp2.2\EtteplanMORE.ServiceManual.UnitTests.pdb

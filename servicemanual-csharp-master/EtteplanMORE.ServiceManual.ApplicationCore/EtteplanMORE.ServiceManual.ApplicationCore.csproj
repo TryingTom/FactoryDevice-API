@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200123201247_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200123201247_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200124104759_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200124104759_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200124110247_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200124110247_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200124111833_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200124111833_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200124114227_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200124114227_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200124123812_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200124123812_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200124124609_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200124124609_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200124125414_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200124125414_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200124130145_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200124130145_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200124133821_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200124133821_InitialMigration.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
