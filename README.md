@@ -1,4 +1,4 @@
-# EtteplanMore-CodeTest
+# FactoryDevice API
 Kooditehtävä Etteplan More:lle, Asp.Net Core RESTful Api
 
 Sovellus aukeaa kun käyttäjä valitsee "Startup Projects" valikosta "EtteplanMORE.ServiceManual.Web", jonka jälkeen "IIS Express" aukaisee selaimen, jolloin rajapinta on käynnissä. 
